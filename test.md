@@ -12,6 +12,15 @@ d) En lineær (invers) tilbudsfunksjon skrives som
 
 $$ (2) p=\alpha+\beta x $$
 
+\begin{equation*}
+   e^{\pi i} + 1 = 0
+\end{equation*}
+
+
+\begin{equation}
+   E = mc^2
+\end{equation}
+
 hvor $\alpha, \beta$ er positive parametre.
 Tegn denne funksjonen i en figur, og vis hvordan den påvirkes av de endringene du diskuterte under c). Hva fanger opp parametrene $\alpha, \beta$?   
 e) Hva karakteriserer en markedslikevekt? Bruk (1) og (2) og finn likevekten.  
