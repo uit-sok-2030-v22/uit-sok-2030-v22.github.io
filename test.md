@@ -10,7 +10,7 @@ Tegn denne funksjonen i en figur, og vis hvordan den påvirkes av de endringene 
 c)  Hva viser markedets tilbud, og hvilke faktorer og variabler påvirker den?   
 d) En lineær (invers) tilbudsfunksjon skrives som 
 
-$$ (2) p=\alpha+\beta x $$
+
 
 \begin{equation*}
    e^{\pi i} + 1 = 0
