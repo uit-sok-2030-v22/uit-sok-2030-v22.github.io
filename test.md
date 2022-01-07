@@ -16,6 +16,7 @@ d) En lineær (invers) tilbudsfunksjon skrives som
    e^{\pi i} + 1 = 0
 \end{equation*}
 
+tekst i mellom
 
 \begin{equation}
    E = mc^2
