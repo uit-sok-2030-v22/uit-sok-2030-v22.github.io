@@ -12,9 +12,9 @@ d) En lineær (invers) tilbudsfunksjon skrives som
 
 
 
-\begin{equation*}
-   e^{\pi i} + 1 = 0
-\end{equation*}
+$$
+  e^{\pi i} + 1 = 0
+$$
 
 tekst i mellom
 
